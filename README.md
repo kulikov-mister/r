@@ -84,7 +84,7 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
   ---
 
   ### :fire: My github's langs :
-  ---
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kulikov-mister&layout=compact)](https://github.com/kulikov-mister/readme)
 
 </div>
