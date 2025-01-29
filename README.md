@@ -87,6 +87,6 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kulikov-mister&layout=compact&theme=vision-friendly-dark)](https://github.com/kulikov-mister/github-readme-stats)
   ---
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kulikov-mister&layout=compact&theme=vision-friendly-dark)](https://github.com/kulikov-mister/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kulikov-mister&layout=compact)](https://github.com/anuraghazra/readme)
 
 </div>
